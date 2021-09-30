@@ -1,0 +1,2 @@
+# labda
+linking to mysql
